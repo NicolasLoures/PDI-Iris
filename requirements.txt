@@ -1,0 +1,22 @@
+# Básicas
+numpy>=1.23
+scipy>=1.9
+
+# Processamento de imagem
+opencv-python>=4.7
+scikit-image>=0.20
+
+# Visualização
+matplotlib>=3.6
+
+# Configurações
+PyYAML>=6.0
+
+# Jupyter para notebooks
+jupyter>=1.0
+
+# Leitura/escrita de dados estruturados (opcional)
+pandas>=1.5
+
+# Testes
+pytest>=7.2
